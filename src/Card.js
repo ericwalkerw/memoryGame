@@ -1,5 +1,5 @@
 import { Node } from "./Node.js";
-import { Sprite } from "./sprite.js";
+import { Sprite } from "./Sprite.js";
 
 export class Card {
   constructor(index, src, cover) {
