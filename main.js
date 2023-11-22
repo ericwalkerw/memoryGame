@@ -1,4 +1,4 @@
-import { Card } from "./src/Card.js";
+import { Card } from "./src/card.js";
 
 const NUM_COLUMNS = 5;
 const NUM_ROWS = 4;
